@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# Data files (don't upload data to GitHub)
+data/raw/*.csv
+data/processed/*.csv
+*.db
+*.sqlite
+
+# IDE settings
+.vscode/
+.DS_Store
+
+# Reports
+reports/*.html
